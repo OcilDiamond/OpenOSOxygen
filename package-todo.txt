@@ -1,0 +1,18 @@
+[ ] HeyJSON (lib)
+	JSON encoder and decoder library
+[ ] Zippy (lib)
+	Library for working with .zip files
+[ ] Git (lib,bin)
+	Library and binary for working with git svm
+[ ] HeyXML (lib)
+	XML encoder and decoder library
+[ ] Argify (lib)
+	Argument parser library
+[ ] Curl (bin)
+	An implementation of the curl tool for OpenOS
+[ ] TarPit (lib)
+	A library for working with .tar packages
+[ ] GunZip (lib)
+	A library for working with gunzip archives (.gz)
+[ ] CPIO (lib)
+	A library for working with CPIO archives
